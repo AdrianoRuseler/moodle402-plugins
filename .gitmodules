@@ -74,3 +74,7 @@
 	path = moodle/blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp.git
 	branch = master
+[submodule "moodle/blocks/dedication"]
+	path = moodle/blocks/dedication
+	url = https://github.com/catalyst/moodle-block_dedication.git
+	branch = MOODLE_400_STABLE
