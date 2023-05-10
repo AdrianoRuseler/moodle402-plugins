@@ -66,3 +66,7 @@
 	path = moodle/lib/editor/atto/plugins/justify
 	url = https://github.com/moodle-ead/atto_justify.git
 	branch = master
+[submodule "moodle/blocks/completion_progress"]
+	path = moodle/blocks/completion_progress
+	url = https://github.com/deraadt/moodle-block_completion_progress.git
+	branch = master
