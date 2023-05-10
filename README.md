@@ -296,7 +296,7 @@ git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.gi
 
 - https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
 ```bash
-git submodule add -b MOODLE_401_STABLE https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
+git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
 ```
 
 
