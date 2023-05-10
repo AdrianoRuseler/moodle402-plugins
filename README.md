@@ -291,7 +291,7 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-format_wpl
 
 - https://gitlab.com/jezhops/moodle-theme_adaptable
 ```bash
-git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
+git submodule add -b master https://github.com/gjb2048/moodle-theme_adaptable.git theme/adaptable
 ```
 
 - https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
