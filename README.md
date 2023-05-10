@@ -263,20 +263,6 @@ git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.
 ```
 
 
-
-### PLAGIARISM
-
-- https://github.com/turnitin/moodle-plagiarism_turnitin
-```bash
-git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
-```
-
-- https://github.com/turnitin/moodle-plagiarism_turnitinsim
-
-```bash
-git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turnitinsim.git plagiarism/turnitinsim
-```
-
 ### FORMAT
 
 - https://github.com/DigiDago/moodle-format_softcourse
@@ -324,6 +310,19 @@ git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/
 - https://github.com/cellule-tice/moodle-format_collapsibletopics
 ```bash
 git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
+```
+
+### PLAGIARISM
+
+- https://github.com/turnitin/moodle-plagiarism_turnitin
+```bash
+git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
+```
+
+- https://github.com/turnitin/moodle-plagiarism_turnitinsim
+
+```bash
+git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turnitinsim.git plagiarism/turnitinsim
 ```
 
 ## Git commands
