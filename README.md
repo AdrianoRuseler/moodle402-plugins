@@ -284,14 +284,9 @@ git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turni
 git submodule add -b MOODLE_402_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
 ```
 
-- https://github.com/cellule-tice/moodle-format_collapsibletopics
-```bash
-git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
-```
-
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
-git submodule add -b moodle40 https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
 
 - https://gitlab.com/drlikm/format_etask
@@ -324,6 +319,11 @@ git submodule add -b MOODLE_401_STABLE https://github.com/moodle-an-hochschulen/
 - https://github.com/bynare/moodle-enrol_auto
 ```bash
 git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
+```
+
+- https://github.com/cellule-tice/moodle-format_collapsibletopics
+```bash
+git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
 
 ## Git commands
