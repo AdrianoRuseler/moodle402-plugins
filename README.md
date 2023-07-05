@@ -109,7 +109,7 @@ git submodule update --init
 git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
 
-- [https://github.com/ecampbell/moodle-booktool_wordimport](https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group)
+- https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group
 ```bash
 git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
 ```
