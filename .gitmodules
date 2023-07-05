@@ -198,3 +198,7 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_402_STABLE
+[submodule "moodle/mod/quiz/report/group"]
+	path = moodle/mod/quiz/report/group
+	url = https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git
+	branch = master
