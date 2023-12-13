@@ -194,10 +194,6 @@
 	path = moodle/lib/editor/tiny/plugins/fontcolor
 	url = https://github.com/bfh/moodle-tiny_fontcolor.git
 	branch = master
-[submodule "moodle/theme/boost_union"]
-	path = moodle/theme/boost_union
-	url = https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git
-	branch = MOODLE_402_STABLE
 [submodule "moodle/mod/geogebra"]
 	path = moodle/mod/geogebra
 	url = https://github.com/projectestac/moodle-mod_geogebra.git
