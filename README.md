@@ -301,6 +301,18 @@ git submodule add -b master https://github.com/gjb2048/moodle-theme_adaptable.gi
 git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
 ```
 
+### PLAGIARISM
+
+- https://github.com/turnitin/moodle-plagiarism_turnitin
+```bash
+git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
+```
+
+- https://github.com/turnitin/moodle-plagiarism_turnitinsim
+
+```bash
+git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turnitinsim.git plagiarism/turnitinsim
+```
 
 ## TO REMOVE:
 
@@ -323,18 +335,7 @@ git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz
 ```bash
 git submodule add -b MOODLE_400 https://github.com/vtos/moodle-mod_adaptivequiz.git mod/adaptivequiz
 ```
-### PLAGIARISM
 
-- https://github.com/turnitin/moodle-plagiarism_turnitin
-```bash
-git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
-```
-
-- https://github.com/turnitin/moodle-plagiarism_turnitinsim
-
-```bash
-git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turnitinsim.git plagiarism/turnitinsim
-```
 
 ## Git commands
 
