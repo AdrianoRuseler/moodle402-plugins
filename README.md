@@ -302,13 +302,13 @@ git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-them
 ```
 
 
-## REMOVED:
+## TO REMOVE:
 
 - https://github.com/bynare/moodle-enrol_auto
 ```bash
 git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 ```
-
+## REMOVED:
 - https://github.com/cellule-tice/moodle-format_collapsibletopics
 ```bash
 git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
