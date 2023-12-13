@@ -113,6 +113,12 @@ git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimp
 ```bash
 git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
 ```
+
+- https://github.com/projectestac/moodle-mod_geogebra
+```bash
+git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
+```
+
 ### ATTO
 - https://github.com/dthies/moodle-atto_cloze
 ```bash
