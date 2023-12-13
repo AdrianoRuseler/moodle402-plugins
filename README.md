@@ -196,10 +196,7 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumeric.gi
 git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.git question/type/varnumunit
 git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git lib/editor/ousupsub
 ```
-- https://github.com/vtos/moodle-mod_adaptivequiz
-```bash
-git submodule add -b MOODLE_400 https://github.com/vtos/moodle-mod_adaptivequiz.git mod/adaptivequiz
-```
+
 ### REPORT
 - https://github.com/catalyst/moodle-report_coursesize
 ```bash
@@ -316,6 +313,10 @@ git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/
 git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
 
+- https://github.com/vtos/moodle-mod_adaptivequiz
+```bash
+git submodule add -b MOODLE_400 https://github.com/vtos/moodle-mod_adaptivequiz.git mod/adaptivequiz
+```
 ### PLAGIARISM
 
 - https://github.com/turnitin/moodle-plagiarism_turnitin
