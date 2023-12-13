@@ -291,14 +291,14 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-format_wpl
 
 ### THEME
 
-- https://gitlab.com/jezhops/moodle-theme_adaptable
+- https://github.com/gjb2048/moodle-theme_adaptable
 ```bash
-git submodule add -b master https://github.com/gjb2048/moodle-theme_adaptable.git theme/adaptable
+git submodule add -b MOODLE_402 https://github.com/gjb2048/moodle-theme_adaptable.git theme/adaptable
 ```
 
 - https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
 ```bash
-git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
+git submodule add -b MOODLE_402_STABLE https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
 ```
 
 ### PLAGIARISM
