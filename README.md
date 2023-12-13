@@ -109,11 +109,6 @@ git submodule update --init
 git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
 
-- https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group
-```bash
-git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
-```
-
 - https://github.com/projectestac/moodle-mod_geogebra
 ```bash
 git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
@@ -317,6 +312,11 @@ git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/
 - https://github.com/cellule-tice/moodle-format_collapsibletopics
 ```bash
 git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
+```
+
+- https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group
+```bash
+git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
 ```
 
 - https://github.com/vtos/moodle-mod_adaptivequiz
