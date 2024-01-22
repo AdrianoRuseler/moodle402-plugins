@@ -89,7 +89,7 @@ git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git 
 
 - https://github.com/moodleworkplace/moodle-mod_coursecertificate
 ```bash
-git submodule add -b master https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
+git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
 ```
 
 - https://github.com/udima-university/moodle-mod_jitsi
@@ -248,7 +248,7 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 
 - https://github.com/moodleworkplace/moodle-tool_certificate
 ```bash
-git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
+git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
 ```
 
 - https://github.com/moodlehq/moodle-tool_migratehvp2h5p
