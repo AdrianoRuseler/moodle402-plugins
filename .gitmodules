@@ -218,3 +218,7 @@
 	path = moodle/course/format/tiles
 	url = https://bitbucket.org/dw8/moodle-format_tiles.git
 	branch = moodle42b
+[submodule "moodle/course/format/etask"]
+	path = moodle/course/format/etask
+	url = https://gitlab.com/drlikm/format_etask.git
+	branch = FORMAT_ETASK_23_STABLE
