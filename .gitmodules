@@ -154,10 +154,6 @@
 	path = moodle/course/format/softcourse
 	url = https://github.com/DigiDago/moodle-format_softcourse.git
 	branch = MOODLE_402_STABLE
-[submodule "moodle/course/format/etask"]
-	path = moodle/course/format/etask
-	url = https://gitlab.com/drlikm/format_etask.git
-	branch = master
 [submodule "moodle/course/format/wplist"]
 	path = moodle/course/format/wplist
 	url = https://github.com/moodleworkplace/moodle-format_wplist.git
