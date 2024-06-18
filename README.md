@@ -162,9 +162,9 @@ git submodule add -b MOODLE_401_STABLE https://github.com/remotelearner/moodle-b
 git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 ```
 
-- https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
+- https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion 
 ```bash
-git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
+git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-qtype_vplquestion.git question/type/vplquestion
 ```
 
 - https://github.com/gbateson/moodle-qtype_ordering
