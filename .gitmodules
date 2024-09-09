@@ -18,10 +18,6 @@
 	path = moodle/mod/checklist
 	url = https://github.com/davosmith/moodle-checklist.git
 	branch = master
-[submodule "moodle/mod/scheduler"]
-	path = moodle/mod/scheduler
-	url = https://github.com/bostelm/moodle-mod_scheduler.git
-	branch = master
 [submodule "moodle/mod/jitsi"]
 	path = moodle/mod/jitsi
 	url = https://github.com/udima-university/moodle-mod_jitsi.git
