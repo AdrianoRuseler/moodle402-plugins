@@ -218,3 +218,7 @@
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
 	branch = MOODLE_400_STABLE
+[submodule "moodle/mod/studentquiz"]
+	path = moodle/mod/studentquiz
+	url = https://github.com/AdrianoRuseler/mod_studentquiz.git
+	branch = main
